@@ -1,3 +1,3 @@
 # Flutter benchmark
 
-A new benchmark flutter project
+This is Flutter benchmark project
